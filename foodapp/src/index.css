@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Outfit:wght@400;700&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Montserrat', sans-ser,
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-link {
+  color: BLACK !important;
+  font-size: 20px !important;
+  padding-right: 15px !important;
+  margin-right: 15px !important;
+}
+.navbar-brand {
+  font-size: 40px!important;
+  color: black !important;
+}
+
+.flex-containter {
+  display: flex !important;
+}
+.btn {
+  background-color: rgb(136, 38, 38) !important;
+  color: white !important;
+}
+select{
+  box-shadow: none !important;
+  border-color: black !important;
+}
